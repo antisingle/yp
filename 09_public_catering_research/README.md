@@ -1,5 +1,7 @@
 # Выбор места для открытия кафе в Москве. 
 
+## Статус 
+Завершён.
 
 ## Данные
 
@@ -12,3 +14,7 @@
 
 ## Используемые библиотеки
 *Pandas*, *Python*, *Seaborn*, *Plotly*
+
+## Выводы:
+
+Выводы с графиками представлены в презентации: https://drive.google.com/file/d/1XENyECdMN8R6nTnGYzS_a5wo7q9GHq_e/view?usp=sharing
